@@ -35,15 +35,15 @@ Re-contacting this segment should be Priority #1
 # Recommendations
 
 ## Priority	Recommendation	Expected Impact
-1	Create a dedicated retention campaign for previously successful clients	- 91% conversion potential
-2	Develop targeted offers for blue-collar segment - Large untapped volume
-3	Cap contact attempts at 3-5 per client - Reduce costs, protect brand reputation
-4	Focus on balance-based segmentation - Prioritize €1,700+ clients
+1	Create a dedicated retention campaign for previously successful clients	- 91% conversion potential  
+2	Develop targeted offers for blue-collar segment - Large untapped volume  
+3	Cap contact attempts at 3-5 per client - Reduce costs, protect brand reputation  
+4	Focus on balance-based segmentation - Prioritize €1,700+ clients  
 
 # Next Steps
-Build a predictive model to score lead probability
-A/B test different messaging for blue-collar segment
-Analyze cost-per-acquisition by contact method
+Build a predictive model to score lead probability  
+A/B test different messaging for blue-collar segment  
+Analyze cost-per-acquisition by contact method  
 
 Built by Vlad Dvorshiv as part of a data analyst portfolio. Background in economics and statistics. Feedback welcome!
 
