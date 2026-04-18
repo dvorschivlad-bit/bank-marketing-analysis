@@ -16,7 +16,7 @@ The bank conducted marketing campaigns but needed to understand:
 
 ## Dataset
 
-- **Source:** [Bank Marketing Dataset — Kaggle](https://www.kaggle.com/](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data)
+- **Source:** [Bank Marketing Dataset — Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data))
 - ~11,000 records with customer demographics, financial data, and campaign outcomes
 
 ---
