@@ -19,18 +19,18 @@ Jupyter Notebook
 # Key Findings
 ## Best Converting Customer Profile
 Age: Under 25 or over 65
-Occupation: Management, technical, administrative roles
-Pensioners: 66% conversion rate — high-value segment for retention
-Balance: Customers with €1,700+ convert at 57% vs. 36% for those under €122
+Occupation: Management, technical, administrative roles  
+Pensioners: 66% conversion rate — high-value segment for retention  
+Balance: Customers with €1,700+ convert at 57% vs. 36% for those under €122  
 ## Untapped Opportunity
-Blue-collar workers: Largest volume (1,944 clients) but only 36% conversion
-Potential for significant growth with targeted campaigns
+Blue-collar workers: Largest volume (1,944 clients) but only 36% conversion  
+Potential for significant growth with targeted campaigns  
 ## Campaign Efficiency
-First 3 contacts generate 86.6% of all conversions
-Calls after the 11th contact have minimal ROI — waste of resources
-## Critical Success Factor
-Clients with previous campaign success convert at 91%
-Re-contacting this segment should be Priority #1
+First 3 contacts generate 86.6% of all conversions  
+Calls after the 11th contact have minimal ROI — waste of resources  
+## Critical Success Factor  
+Clients with previous campaign success convert at 91%  
+Re-contacting this segment should be Priority #1  
 
 # Recommendations
 
