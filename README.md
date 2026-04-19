@@ -25,6 +25,7 @@ The bank conducted marketing campaigns but needed to understand:
 
 - **Python:** pandas, numpy, matplotlib
 - **Environment:** Jupyter Notebook
+- **Data Visualisation** Power BI
 
 ---
 
