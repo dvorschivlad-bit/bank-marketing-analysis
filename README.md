@@ -52,6 +52,20 @@ The bank conducted marketing campaigns but needed to understand:
 ### Critical Success Factor
 
 > Clients with **previous campaign success** convert at **91%**. Re-contacting this segment should be **Priority #1**.
+---
+## Dashboard Preview
+An interactive Power BI dashboard was created to visualize campaign performance to allow stakeholders to explore these findings dynamicall.
+
+__Quick Stats:__
+
+-Total Clients: 11.16K
+-Overall Conversion Rate: 47.38%
+-Top Segments: Retired, Student, Management
+__Key Visuals:__
+-Conversion rates by Job Title
+-Campaign efficiency (Calls vs. Success)
+-Previous campaign outcome analysis
+👉 [View Full Dashboard](https://github.com/dvorschivlad-bit/bank-marketing-analysis/blob/main/Bank_marketing_campaign_Dashboard.pdf)
 
 ---
 
@@ -74,4 +88,4 @@ The bank conducted marketing campaigns but needed to understand:
 
 ---
 
-*Built by **Vlad Dvorshiv** as part of a data analyst portfolio. Background in economics and statistics. Feedback welcome!*
+*Built by **Vlad Dvorschi** as part of a data analyst portfolio. Background in economics and statistics. Feedback welcome!*
