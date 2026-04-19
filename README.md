@@ -56,16 +56,16 @@ The bank conducted marketing campaigns but needed to understand:
 ## Dashboard Preview
 An interactive Power BI dashboard was created to visualize campaign performance to allow stakeholders to explore these findings dynamicall.
 
-__Quick Stats:__
+__Quick Stats:__  
 
--Total Clients: 11.16K
--Overall Conversion Rate: 47.38%
--Top Segments: Retired, Student, Management
-__Key Visuals:__
--Conversion rates by Job Title
--Campaign efficiency (Calls vs. Success)
--Previous campaign outcome analysis
-👉 [View Full Dashboard](https://github.com/dvorschivlad-bit/bank-marketing-analysis/blob/main/Bank_marketing_campaign_Dashboard.pdf)
+-Total Clients: 11.16K  
+-Overall Conversion Rate: 47.38%  
+-Top Segments: Retired, Student, Management  
+__Key Visuals:__  
+-Conversion rates by Job Title  
+-Campaign efficiency (Calls vs. Success)  
+-Previous campaign outcome analysis  
+👉 [View Full Dashboard](https://github.com/dvorschivlad-bit/bank-marketing-analysis/blob/main/Bank_marketing_campaign_Dashboard.pdf)  
 
 ---
 
