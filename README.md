@@ -16,8 +16,20 @@ The bank conducted marketing campaigns but needed to understand:
 
 ## Dataset
 
-- **Source:** [Bank Marketing Dataset — Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data))
-- ~11,000 records with customer demographics, financial data, and campaign outcomes
+The dataset contains direct marketing campaign data from a Portuguese banking institution. The goal is to predict if a client will subscribe to a term deposit.
+
+| Feature | Description |
+|---|---|
+| **Records** | ~11,162 observations |
+| **Target Variable** | `deposit` (Subscribed to term deposit: Yes/No) |
+| **Age / Job / Marital** | Client demographic profile |
+| **Balance** | Average yearly account balance (Euros) |
+| **Housing / Loan** | Existing liabilities (Housing loan, Personal loan) |
+| **Contact** | Contact communication type (Cellular, Telephone, Unknown) |
+| **Campaign** | Number of contacts performed during this campaign |
+| **Poutcome** | Outcome of the previous marketing campaign (Success, Failure, etc.) |
+
+> **Note:** This dataset is cleaner than the original UCI version, making it ideal for rapid prototyping and business analysis.
 
 ---
 
